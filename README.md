@@ -1,6 +1,6 @@
 # 2025ML-spamEmail (local workspace)
 
-🌐 **Live Demo**: http://140.120.53.203:8501/  
+🌐 **Live Demo**: http://localhost:8501/  
 📦 **GitHub Repository**: https://github.com/goodbai1015/2025_IoT_HW3.git
 
 This repository holds an OpenSpec-driven project to implement a spam SMS/email classifier and an interactive demo.
